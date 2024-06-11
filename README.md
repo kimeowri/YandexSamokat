@@ -10,7 +10,7 @@
    - [Веб-приложение Яндекс.Самокат](#1-спринт)
    - [Мобильное приложение Яндекс.Самокат](#2-спринт)
    - [API приложения Яндекс.Самокат](#3-спринт)
--[Выполнение тестров](#отчет)
+- [Выполнение тестров](#отчет)
 
 ## Задачи тестировщика
 
@@ -87,23 +87,23 @@
 
 ## Процесс работы
 
-## 1-спринт
+## 1
 
 [Веб-приложение Яндекс.Самокат (Чек-лист функциональности и вёрстки экрана "Статус заказа")](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
 
-## 1-спринт
+## 1
 
 [Веб-приложение Яндекс.Самокат (Валидация полей)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
 
-## 1-спринт
+## 1
 
 [Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
 
-## 2-спринт
+## 2
 
 [Мобильное приложение Яндекс.Самокат (Тест-кейсы функциональности)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=424948590#gid=424948590)
 
-## 3-спринт
+## 3
 
 [API приложения Яндекс.Самокат (Чек-лист API)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
 
