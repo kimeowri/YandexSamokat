@@ -10,6 +10,7 @@
    - [Веб-приложение Яндекс.Самокат](#1-спринт)
    - [Мобильное приложение Яндекс.Самокат](#2-спринт)
    - [API приложения Яндекс.Самокат](#3-спринт)
+-[Выполнение тестров](#отчет)
 
 ## Задачи тестировщика
 
@@ -86,15 +87,32 @@
 
 ## Процесс работы
 
+## 1-спринт
+
 [Веб-приложение Яндекс.Самокат (Чек-лист функциональности и вёрстки экрана "Статус заказа")](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
+
+## 1-спринт
 
 [Веб-приложение Яндекс.Самокат (Валидация полей)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
 
+## 1-спринт
+
 [Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
+
+## 2-спринт
 
 [Мобильное приложение Яндекс.Самокат (Тест-кейсы функциональности)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=424948590#gid=424948590)
 
+## 3-спринт
+
 [API приложения Яндекс.Самокат (Чек-лист API)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
+
+## отчет
 
 ### Выполнение тестров
 
+[Веб-приложение Яндекс.Самокат](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7B%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%7D)
+
+[Мобильное приложение Яндекс.Самокат](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7B%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%7D)
+
+[API приложения Яндекс.Самокат](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7BAPI%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%7D)
