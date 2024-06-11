@@ -85,25 +85,16 @@
 </p> 
 
 ## Процесс работы
-### 1 спринт
 
-#### Веб-приложение Яндекс.Самокат (Чек-лист функциональности и вёрстки экрана "Статус заказа")
+[Веб-приложение Яндекс.Самокат (Чек-лист функциональности и вёрстки экрана "Статус заказа")](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
 
-[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
+[Веб-приложение Яндекс.Самокат (Валидация полей)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
 
+[Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
 
-#### Веб-приложение Яндекс.Самокат (Валидация полей)
+[Мобильное приложение Яндекс.Самокат (Тест-кейсы функциональности)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=424948590#gid=424948590)
 
-[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
+[API приложения Яндекс.Самокат (Чек-лист API)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
 
-#### Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)
+### Выполнение тестров
 
-[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
-
-#### Мобильное приложение Яндекс.Самокат (Тест-кейсы функциональности)
-
-[Задание 2](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=424948590#gid=424948590)
-
-#### API приложения Яндекс.Самокат (Чек-лист API)
-
-[Задание 3](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
