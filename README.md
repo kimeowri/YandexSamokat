@@ -89,17 +89,21 @@
 
 #### Веб-приложение Яндекс.Самокат (Чек-лист функциональности и вёрстки экрана "Статус заказа")
 
-![Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
+[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=943703744#gid=943703744)
 
 
 #### Веб-приложение Яндекс.Самокат (Валидация полей)
 
-![Задание 2](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
+[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1540465171#gid=1540465171)
 
 #### Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)
 
-![Задание 2](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
+[Задание 1](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=1539613303#gid=1539613303)
 
-#### Веб-приложение Яндекс.Самокат (Баги вне тестовой документации)
+#### Мобильное приложение Яндекс.Самокат (Тест-кейсы функциональности)
 
-![Задание 2](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7B%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%7D)
+[Задание 2](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=424948590#gid=424948590)
+
+#### API приложения Яндекс.Самокат (Чек-лист API)
+
+[Задание 3](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
