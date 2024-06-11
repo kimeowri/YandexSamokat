@@ -107,7 +107,7 @@
 
 [API приложения Яндекс.Самокат (Чек-лист API)](https://docs.google.com/spreadsheets/d/1MHZpGRWrSCUJxXh4j2WfojIP7_zIaoYCxT-ibb7MDIk/edit?gid=336872680#gid=336872680)
 
-## отчет
+## Отчет
 
 ### Выполнение тестров
 
